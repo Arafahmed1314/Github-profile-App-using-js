@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.repo{
+    background-color: rgb(110, 72, 72) ;
+    color: white;
+    padding: 1px 5px;
+    border-radius: 5px;
+
+}
